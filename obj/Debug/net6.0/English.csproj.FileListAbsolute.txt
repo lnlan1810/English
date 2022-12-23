@@ -1,0 +1,15 @@
+C:\Users\SURFACE\source\repos\Calcalculate\English\bin\Debug\net6.0\English.exe
+C:\Users\SURFACE\source\repos\Calcalculate\English\bin\Debug\net6.0\English.deps.json
+C:\Users\SURFACE\source\repos\Calcalculate\English\bin\Debug\net6.0\English.runtimeconfig.json
+C:\Users\SURFACE\source\repos\Calcalculate\English\bin\Debug\net6.0\English.dll
+C:\Users\SURFACE\source\repos\Calcalculate\English\bin\Debug\net6.0\English.pdb
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.csproj.AssemblyReference.cache
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.AssemblyInfoInputs.cache
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.AssemblyInfo.cs
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.csproj.CoreCompileInputs.cache
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.dll
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\refint\English.dll
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.pdb
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\English.genruntimeconfig.cache
+C:\Users\SURFACE\source\repos\Calcalculate\English\obj\Debug\net6.0\ref\English.dll
